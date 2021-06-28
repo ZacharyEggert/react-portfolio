@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components{
+
+    .link-button{
+        @apply inline-block px-2 pb-1 mt-2 text-xl border-2 border-white border-solid
+    }
+
+    body{
+        @apply bg-[#111] text-[#EEE] w-screen h-screen
+    }
+
+    #root{
+        @apply w-screen h-screen
+    }
+
+    .page-wrapper{
+        background-image:url('./assets/images/FIOE.png');
+        background-position:center;
+        background-repeat:no-repeat;
+        background-size:auto 100vh;
+        @apply h-full
+    }
+
+}
