@@ -16,11 +16,11 @@ const Works = () => {
 
     
 return(
-    <div className='page-wrapper'>
+    <div className='w-100%'>
         <Header />
         <main>
 
-            <div>
+            <div className='flex flex-row flex-wrap max-w-6xl mx-auto mt-16'>
                 {projects.map(project => {
                     return (
                         <Project project={project} key={project.title}/>
