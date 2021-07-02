@@ -13,15 +13,21 @@
     }
 
     #root{
-        @apply w-screen h-screen
+        @apply w-full h-full
     }
 
-    .page-wrapper{
+    body{
         background-image:url('./assets/images/FIOE.png');
         background-position:center;
+        background-attachment:fixed;
         background-repeat:no-repeat;
         background-size:auto 100vh;
-        @apply h-full
+        
+        @apply min-h-screen w-full
+    }
+
+    *{
+        box-sizing:border-box;
     }
 
 }
