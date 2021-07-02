@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+          "github":"https://github.com/ZacharyEggert/Unanswered-Questions",
+          "title":"Unanswered Questions",
+          "description":
+          "A concept piece based around historical philosphers. Built using html, css, js, jquery, tailwindcss, owl carousel, wikimedia's api, google's api, and an open philosophical quote api. Built in collaboration with a small group. \n Updated may 2020 to be web hostable using node, express, sequelize, mysql, dotenv, bcrypt, handlebars, and many more nodejs packages.",
+          "deployedLink":"https://unanswered-questions.herokuapp.com/",
+          "bgImage":"uq-screenshot.png"
+        },
+        {
+          "github":"https://github.com/ZacharyEggert/Time-Tracker",
+          "title":"Project Manager",
+          "description":
+          "A quickly made project manager made during the UW's coding bootcamp. Built on HTML, CSS, JS, jQuery, Bootstrap4, and Moment.js",
+          "deployedLink":"https://zacharyeggert.github.io/Time-Tracker",
+          "bgImage":"t-tracker-screenshot.png"
+        },
+        {
+          "github":"https://github.com/ZacharyEggert/Day-Planner",
+          "title":"Work Day Scheduler",
+          "description":
+          "A work day planner built using HTML, CSS, JS, Bootstrap4, and Moment.js",
+          "deployedLink":"https://zacharyeggert.github.io/Day-Planner",
+          "bgImage":"planner-screenshot.png"
+        },
+        {
+          "github":"https://github.com/ZacharyEggert/Password-Generator",
+          "title":"Password Generator",
+          "description":
+          "A random string generator with options for special characters, numbers, etc. Built on HTML, CSS, and JavaScript.",
+          "deployedLink":"https://zacharyeggert.github.io/Password-Generator/",
+          "bgImage":"p-generator-screenshot.png"
+        },
+        {
+          "github":"https://github.com/ZacharyEggert/Weather-Dashboard",
+          "title":"Egg Weather",
+          "description":
+          "A weather dashboard with server API calls, built on HTML, CSS, JS, jQuery, and MomentJS.",
+          "deployedLink":"https://zacharyeggert.github.io/Weather-Dashboard/",
+          "bgImage":"egg-screenshot.png"
+        }
+      ]
+}
