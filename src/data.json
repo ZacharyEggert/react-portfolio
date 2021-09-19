@@ -1,11 +1,11 @@
 {
     "projects": [
         {
-          "github":"https://github.com/ZacharyEggert/Unanswered-Questions",
+          "github":"https://github.com/ZacharyEggert/UnansweredQuestions",
           "title":"Unanswered Questions",
           "description":
           "A concept piece based around historical philosphers. Built using html, css, js, jquery, tailwindcss, owl carousel, wikimedia's api, google's api, and an open philosophical quote api. Built in collaboration with a small group. \n Updated may 2020 to be web hostable using node, express, sequelize, mysql, dotenv, bcrypt, handlebars, and many more nodejs packages.",
-          "deployedLink":"https://unanswered-questions.herokuapp.com/",
+          "deployedLink":"https://unansweredquestions.herokuapp.com/",
           "bgImage":"uq-screenshot.png"
         },
         {
